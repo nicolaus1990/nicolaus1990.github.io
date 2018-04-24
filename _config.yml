@@ -24,15 +24,14 @@ github_username:  nicolaus1990
 
 # Build settings
 markdown: kramdown
-#theme: minima
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
 #remote_theme: "mmistakes/jekyll-theme-basically-basic"
 #remote_theme: mmistakes/minimal-mistakes
 #remote_theme: "mmistakes/so-simple-theme"
-remote_theme: "nicolaus1990/so-simple-theme"
-
+#remote_theme: "nicolaus1990/so-simple-theme"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -45,3 +44,10 @@ remote_theme: "nicolaus1990/so-simple-theme"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#Other options:
+#source: DIR #Change the directory where Jekyll will read files
+#destination: DIR #Site destination
+#exclude: [DIR, FILE, ...] #Exclude directories and/or files from the conversion. These exclusions are relative to the site's source directory and cannot be outside the source directory. 
+#include: [DIR, FILE, ...] #Force inclusion of directories and/or files in the conversion. .htaccess is a good example since dotfiles are excluded by default. 
+
