@@ -31,7 +31,7 @@ plugins:
 #remote_theme: "mmistakes/jekyll-theme-basically-basic"
 #remote_theme: mmistakes/minimal-mistakes
 #remote_theme: "mmistakes/so-simple-theme"
-remote_theme: "nicolaus1990/so-simple-theme"
+remote_theme: "nicolaus1990/so-simple-theme/"
 
 
 # Exclude from processing.
