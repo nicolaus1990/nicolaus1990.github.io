@@ -24,14 +24,22 @@ github_username:  nicolaus1990
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
-#  - jekyll-remote-theme
+  - jekyll-remote-theme
+remote_theme: "nicolaus1990/jekyll-theme-minanimal"
+#remote_theme: "nicolaus1990/minimal"
+#remote_theme: "nicolaus1990/minima"
+#remote_theme: "nicolaus1990/so-simple-theme"
 #remote_theme: "mmistakes/jekyll-theme-basically-basic"
 #remote_theme: mmistakes/minimal-mistakes
 #remote_theme: "mmistakes/so-simple-theme"
-#remote_theme: "nicolaus1990/so-simple-theme"
+
+#For miniaml theme
+logo: /assets/img/logo.png
+show_downloads: true
+google_analytics: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

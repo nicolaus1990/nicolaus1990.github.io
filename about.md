@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 tags: [about, introduction]
 ---
 
-Hello web-wanderers. This is my blog.
+Hello web-wanderers! This is my blog.
