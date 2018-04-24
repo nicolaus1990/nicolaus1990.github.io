@@ -27,7 +27,7 @@ markdown: kramdown
 #theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
 remote_theme: "nicolaus1990/jekyll-theme-minanimal"
 #remote_theme: "nicolaus1990/minimal"
 #remote_theme: "nicolaus1990/minima"
@@ -43,6 +43,13 @@ profilePic: /assets/img/nikkiBarbaraBild.png
 #logo: /assets/img/logo.png
 #show_downloads: true
 #google_analytics: false
+
+#Using containing folders as theme
+rss: rss
+show_excerpts: false # set to true to show excerpts on the homepage
+# Minima date format. refer to http://shopify.github.io/liquid/filters/date/
+minima:
+  date_format: "%d.%m.%Y"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
