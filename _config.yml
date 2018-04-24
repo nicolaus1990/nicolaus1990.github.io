@@ -36,10 +36,13 @@ remote_theme: "nicolaus1990/jekyll-theme-minanimal"
 #remote_theme: mmistakes/minimal-mistakes
 #remote_theme: "mmistakes/so-simple-theme"
 
+#For jekyll-theme-mianimal
+profilePic: /assets/img/nikkiBarbaraBild.png
+
 #For miniaml theme
-logo: /assets/img/logo.png
-show_downloads: true
-google_analytics: false
+#logo: /assets/img/logo.png
+#show_downloads: true
+#google_analytics: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
