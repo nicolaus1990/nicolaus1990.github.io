@@ -17,7 +17,7 @@ title: Nikki's blog
 email: nicolaus.moeller@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal blog.
-baseurl: "https://nicolaus1990.github.io/nicolaus1990.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "/nicolaus1990.github.io/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  nicolaus1990
@@ -31,7 +31,7 @@ plugins:
 #remote_theme: "mmistakes/jekyll-theme-basically-basic"
 #remote_theme: mmistakes/minimal-mistakes
 #remote_theme: "mmistakes/so-simple-theme"
-remote_theme: "nicolaus1990/so-simple-theme/"
+remote_theme: "nicolaus1990/so-simple-theme"
 
 
 # Exclude from processing.
