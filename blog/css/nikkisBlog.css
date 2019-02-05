@@ -1,0 +1,25 @@
+/* 
+ * My changes to Cryogen's default blue-theme 
+ * Note: CSS imports have to preced all other css rules (must 
+ * be on top of the file).
+*/
+@import url("screen.css");
+/* 
+ * My changes to Cryogen's default blue-theme 
+ * 
+ * profilePic: Shows pic as circle.
+*/
+#profilePic {
+  display: block;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  width: 200px;
+}
+
+.navbar-default {
+    color: #000000;
+    background-color: #000000;
+    border: none;
+}
