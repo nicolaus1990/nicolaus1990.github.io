@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
 <channel>
-<atom:link href='Will be pushed to heroku' rel='self' type='application/rss+xml'/>
+<atom:link href='nicolaus.gitlab.io' rel='self' type='application/rss+xml'/>
 <title>
 Nikki's thoughts
 </title>
 <link>
-Will be pushed to heroku
+nicolaus.gitlab.io
 </link>
 <description>
 Personal blog
 </description>
 <lastBuildDate>
-Thu, 28 Mar 2019 13:19:39 +0100
+Thu, 28 Mar 2019 17:38:03 +0100
 </lastBuildDate>
 <generator>
 clj-rss
 </generator>
 <item>
 <guid>
-Will be pushed to heroku/index/posts-output/2019-02-01-My-first-post
+nicolaus.gitlab.io/blog/posts-output/2019-02-01-My-first-post
 </guid>
 <link>
-Will be pushed to heroku/index/posts-output/2019-02-01-My-first-post
+nicolaus.gitlab.io/blog/posts-output/2019-02-01-My-first-post
 </link>
 <title>
 Yet Another Post
@@ -36,10 +36,10 @@ Fri, 01 Feb 2019 00:00:00 +0100
 </item>
 <item>
 <guid>
-Will be pushed to heroku/index/posts-output/2016-01-07-docs
+nicolaus.gitlab.io/blog/posts-output/2016-01-07-docs
 </guid>
 <link>
-Will be pushed to heroku/index/posts-output/2016-01-07-docs
+nicolaus.gitlab.io/blog/posts-output/2016-01-07-docs
 </link>
 <title>
 Quick Start Guide
@@ -114,10 +114,10 @@ Thu, 07 Jan 2016 00:00:00 +0100
 </item>
 <item>
 <guid>
-Will be pushed to heroku/index/posts-output/2014-11-04-second-post
+nicolaus.gitlab.io/blog/posts-output/2014-11-04-second-post
 </guid>
 <link>
-Will be pushed to heroku/index/posts-output/2014-11-04-second-post
+nicolaus.gitlab.io/blog/posts-output/2014-11-04-second-post
 </link>
 <title>
 Yet Another Post
@@ -131,10 +131,10 @@ Tue, 04 Nov 2014 00:00:00 +0100
 </item>
 <item>
 <guid>
-Will be pushed to heroku/index/posts-output/2014-03-10-first-post
+nicolaus.gitlab.io/blog/posts-output/2014-03-10-first-post
 </guid>
 <link>
-Will be pushed to heroku/index/posts-output/2014-03-10-first-post
+nicolaus.gitlab.io/blog/posts-output/2014-03-10-first-post
 </link>
 <title>
 A Post

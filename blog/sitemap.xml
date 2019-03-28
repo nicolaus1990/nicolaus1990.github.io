@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
 <url>
 <loc>
-Will be pushed to herokuindex/tags.html
+nicolaus.gitlab.ioblog.html
 </loc>
 <lastmod>
 2019-03-28
@@ -10,7 +10,7 @@ Will be pushed to herokuindex/tags.html
 </url>
 <url>
 <loc>
-Will be pushed to herokuindex/posts-output/2014-11-04-second-post.html
+nicolaus.gitlab.ioblog/tags.html
 </loc>
 <lastmod>
 2019-03-28
@@ -18,7 +18,7 @@ Will be pushed to herokuindex/posts-output/2014-11-04-second-post.html
 </url>
 <url>
 <loc>
-Will be pushed to herokuindex/posts-output/2014-03-10-first-post.html
+nicolaus.gitlab.ioblog/posts-output/2014-11-04-second-post.html
 </loc>
 <lastmod>
 2019-03-28
@@ -26,7 +26,7 @@ Will be pushed to herokuindex/posts-output/2014-03-10-first-post.html
 </url>
 <url>
 <loc>
-Will be pushed to herokuindex/posts-output/2016-01-07-docs.html
+nicolaus.gitlab.ioblog/posts-output/2014-03-10-first-post.html
 </loc>
 <lastmod>
 2019-03-28
@@ -34,7 +34,7 @@ Will be pushed to herokuindex/posts-output/2016-01-07-docs.html
 </url>
 <url>
 <loc>
-Will be pushed to herokuindex/posts-output/2019-02-01-My-first-post.html
+nicolaus.gitlab.ioblog/posts-output/2016-01-07-docs.html
 </loc>
 <lastmod>
 2019-03-28
@@ -42,7 +42,7 @@ Will be pushed to herokuindex/posts-output/2019-02-01-My-first-post.html
 </url>
 <url>
 <loc>
-Will be pushed to herokuindex/authors-output/Nicolaus M..html
+nicolaus.gitlab.ioblog/posts-output/2019-02-01-My-first-post.html
 </loc>
 <lastmod>
 2019-03-28
@@ -50,7 +50,7 @@ Will be pushed to herokuindex/authors-output/Nicolaus M..html
 </url>
 <url>
 <loc>
-Will be pushed to herokuindex/404.html
+nicolaus.gitlab.ioblog/authors-output/Nicolaus M..html
 </loc>
 <lastmod>
 2019-03-28
@@ -58,7 +58,7 @@ Will be pushed to herokuindex/404.html
 </url>
 <url>
 <loc>
-Will be pushed to herokuindex/archives.html
+nicolaus.gitlab.ioblog/404.html
 </loc>
 <lastmod>
 2019-03-28
@@ -66,7 +66,7 @@ Will be pushed to herokuindex/archives.html
 </url>
 <url>
 <loc>
-Will be pushed to herokuindex/tags-output/cryogen.html
+nicolaus.gitlab.ioblog/archives.html
 </loc>
 <lastmod>
 2019-03-28
@@ -74,7 +74,7 @@ Will be pushed to herokuindex/tags-output/cryogen.html
 </url>
 <url>
 <loc>
-Will be pushed to herokuindex/tags-output/not fetch.html
+nicolaus.gitlab.ioblog/tags-output/cryogen.html
 </loc>
 <lastmod>
 2019-03-28
@@ -82,7 +82,7 @@ Will be pushed to herokuindex/tags-output/not fetch.html
 </url>
 <url>
 <loc>
-Will be pushed to herokuindex/tags-output/very fetch.html
+nicolaus.gitlab.ioblog/tags-output/not fetch.html
 </loc>
 <lastmod>
 2019-03-28
@@ -90,7 +90,7 @@ Will be pushed to herokuindex/tags-output/very fetch.html
 </url>
 <url>
 <loc>
-Will be pushed to herokuindex/pages-output/another-page.html
+nicolaus.gitlab.ioblog/tags-output/very fetch.html
 </loc>
 <lastmod>
 2019-03-28
@@ -98,7 +98,7 @@ Will be pushed to herokuindex/pages-output/another-page.html
 </url>
 <url>
 <loc>
-Will be pushed to herokuindex/pages-output/about.html
+nicolaus.gitlab.ioblog/pages-output/another-page.html
 </loc>
 <lastmod>
 2019-03-28
@@ -106,7 +106,7 @@ Will be pushed to herokuindex/pages-output/about.html
 </url>
 <url>
 <loc>
-Will be pushed to herokuindex/pages-output/third-page.html
+nicolaus.gitlab.ioblog/pages-output/about.html
 </loc>
 <lastmod>
 2019-03-28
@@ -114,7 +114,7 @@ Will be pushed to herokuindex/pages-output/third-page.html
 </url>
 <url>
 <loc>
-Will be pushed to herokuindex.html
+nicolaus.gitlab.ioblog/pages-output/third-page.html
 </loc>
 <lastmod>
 2019-03-28
